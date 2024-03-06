@@ -14,4 +14,7 @@ I am currently a *Bsc student* at UBC doing a combined major in Biology and Comp
     -JavaScript
     -Racket
     -Python
+    -R
 ```
+
+Thank you and see you soon!
